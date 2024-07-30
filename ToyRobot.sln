@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyRobot", "ToyRobot\ToyRobot.csproj", "{0D55C8FB-BE00-422C-9CA6-6486C04FE045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotTest", "RobotTest\RobotTest.csproj", "{E3D64089-5CFB-487D-9347-6DD03591634D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot", "Robot\Robot.csproj", "{B180B760-5CEE-4B9F-845C-67BF740C1FC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D55C8FB-BE00-422C-9CA6-6486C04FE045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D55C8FB-BE00-422C-9CA6-6486C04FE045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D55C8FB-BE00-422C-9CA6-6486C04FE045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D55C8FB-BE00-422C-9CA6-6486C04FE045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D64089-5CFB-487D-9347-6DD03591634D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D64089-5CFB-487D-9347-6DD03591634D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D64089-5CFB-487D-9347-6DD03591634D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D64089-5CFB-487D-9347-6DD03591634D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B180B760-5CEE-4B9F-845C-67BF740C1FC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B180B760-5CEE-4B9F-845C-67BF740C1FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B180B760-5CEE-4B9F-845C-67BF740C1FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B180B760-5CEE-4B9F-845C-67BF740C1FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD892A0-E6C5-495C-BA80-9A23B8E99A58}
+	EndGlobalSection
+EndGlobal
